@@ -1,8 +1,6 @@
 # 1st-Year-Project (Real Estate Agency)
 Dataset: https://drive.google.com/file/d/11-ZNNIdcQ7TbT8Y0nsQ3Q0eiYQP__NIW/view
 
-Serialized model (pickle format): https://drive.google.com/file/d/1f2m1Z_YtEybiU0kgoCH5OOaKSGTQYGu9/view?usp=sharing
-
 
 The task involved building a predictive model for house prices. The dataset was quite messy, initially containing 18–20 features and approx. 400,000 rows.
 
